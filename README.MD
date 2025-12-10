@@ -2,7 +2,7 @@ Steelseries GG Engine App for Teamspeak Speaker Info
 GG_SteelSeries_TS_OLED
 v.02alpha
 by D. Schwark
-08.12.2025
+09.12.2025
 
 Templates:
 https://github.com/SteelSeries/gamesense-sdk
@@ -28,7 +28,7 @@ Have fun...
 Steelseries GG Engine App für Teamspeak-Sprecher-Info
 v.02alpha
 von D.Schwark
-08.12.2025
+09.12.2025
 
 Vorlagen:
 https://github.com/SteelSeries/gamesense-sdk
@@ -43,3 +43,4 @@ https://steelseries.com/developer
 6. .exe starten
 
 Viel Spaß...besonders den neuen Rentnern!
+
